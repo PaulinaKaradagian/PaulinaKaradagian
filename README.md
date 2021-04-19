@@ -1,8 +1,8 @@
-#Hi there, I'm Paulina Karadagian,
-##from Buenos Aires, Argentina 👋
+Hi there, I'm Paulina Karadagian,
+from Buenos Aires, Argentina 👋
 
-###📫 You can reach me at https://twitter.com/PauKaradagian or https://www.linkedin.com/in/paulinakaradagian/
-#####📫You can try www.pvkweb.com too!
+📫 You can reach me at https://twitter.com/PauKaradagian or https://www.linkedin.com/in/paulinakaradagian/
+📫You can try www.pvkweb.com too!
 
 <!--
 **PaulinaKaradagian/PaulinaKaradagian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
