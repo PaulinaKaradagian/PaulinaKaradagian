@@ -10,6 +10,10 @@ Skills: PYTHON / JS / HTML / CSS / Responsive Design / Bootstrap
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: paulina@pvkweb.com 
+- Personal Web: ttp://www.pvkweb.com/
+- Twitter : https://twitter.com/@PauKaradagian
+- Linkedin: https://www.linkedin.com/in/paulinakaradagian
+- Just for fun: ttps://www.instagram.com/@PauKaradagian/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/paulinakaradagian//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@PauKaradagian/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@PauKaradagian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.pvkweb.com/)  
