@@ -1,3 +1,8 @@
+
+
+# [![PaulinaKaradagian_header](https://raw.githubusercontent.com/PaulinaKaradagian/PaulinaKaradagian/main/Paulina%20Karadagian.png)](http://www.pvkweb.com)
+
+
 Hi there, I'm Paulina Karadagian,
 from Buenos Aires, Argentina 👋
 
