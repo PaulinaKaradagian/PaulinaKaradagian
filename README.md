@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Paulina
-#### I am a web developer and pythonist lover.
+#### I am a frontend dev and vue.js lover.
 [<img src = 'https://github.com/PaulinaKaradagian/PaulinaKaradagian/blob/main/Paulina%20Karadagian.png'>](http://www.pvkweb.com)
 
 **I'm always learning.**
