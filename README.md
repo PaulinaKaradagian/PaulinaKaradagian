@@ -3,12 +3,11 @@
 #### I am a web developer and pythonist lover.
 [<img src = 'https://github.com/PaulinaKaradagian/PaulinaKaradagian/blob/main/Paulina%20Karadagian.png'>](http://www.pvkweb.com)
 
-**I'm always learning.** So far, I'm trying to learn React, but first I'm restudying Js, because after I learned it, I started Python and some of the syntax flew away, lol. That is absolutely normal, right?
+**I'm always learning.**
 
-Skills: PYTHON / JS / HTML / CSS / Responsive Design / Bootstrap
+Skills: VUE.js / PYTHON / JS / HTML / CSS / Responsive Design / Bootstrap / Bulma
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React 
 - 📫 How to reach me: paulina@pvkweb.com 
 - Personal Web: ttp://www.pvkweb.com/
 - Twitter : https://twitter.com/@PauKaradagian
